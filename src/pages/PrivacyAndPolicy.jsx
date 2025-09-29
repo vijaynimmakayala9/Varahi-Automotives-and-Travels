@@ -28,7 +28,7 @@ const PrivacyPolicy = () => {
           <p>The personal data we collect may include:</p>
           <ul className="list-disc ps-4">
             <li>Your name, profile image, and contact information</li>
-            <li>Your Aadhar and Driving License</li>
+            {/* <li>Your Aadhar and Driving License</li> */}
             <li>Your current location</li>
             <li>Any other information you choose to provide to us</li>
           </ul>
@@ -38,7 +38,7 @@ const PrivacyPolicy = () => {
             <li>To provide access to the App and its features</li>
             <li>For account creation and sign-up verification</li>
             <li>To display your profile information</li>
-            <li>For customer verification using Aadhar and Driving License</li>
+            {/* <li>For customer verification using Aadhar and Driving License</li> */}
             <li>To suggest nearby available cars based on location</li>
             <li>To personalize your experience</li>
             <li>To respond to your support requests</li>
